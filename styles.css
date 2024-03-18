@@ -1,0 +1,77 @@
+@import url("https://fonts.googleapis.com/css2?family=Madimi+One&family=Satisfy&display=swap");
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Madimi One", sans-serif;
+}
+
+h1 {
+  background-color: #333;
+  color: white;
+  padding: 20px;
+  font-family: Satisfy, sans-serif;
+}
+
+nav ul {
+  list-style-type: none;
+  background-color: #333;
+}
+
+nav li {
+  display: inline-block;
+  margin-right: 20px;
+}
+
+nav a {
+  color: white;
+  text-decoration: none;
+  padding: 10px;
+  display: block;
+}
+
+nav a:hover {
+  background-color: #555;
+}
+
+.about:active {
+  color: green;
+}
+
+.highlight {
+  color: #ff4500;
+}
+
+.skills {
+  color: black;
+  font-size: 1.2em;
+}
+
+#projects {
+  background-color: #f0f0f0;
+  padding: 20px;
+}
+
+.project {
+  background-color: white;
+  padding: 10px;
+  margin-bottom: 10px;
+  border-radius: 10px;
+  width: 45%;
+  display: inline-block;
+}
+
+.project:hover {
+  background-color: black;
+  color: white;
+  padding: 10px;
+  margin-bottom: 10px;
+}
+
+/* Challenge
+
+-Add appropriate styling to the projects section
+-Add fonts to our page :)
+
+*/
