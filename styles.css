@@ -69,9 +69,12 @@ nav a:hover {
   margin-bottom: 10px;
 }
 
-/* Challenge
+footer {
+  background-color: blue;
+  color: white;
+}
 
+/* Challenge
 -Add appropriate styling to the projects section
 -Add fonts to our page :)
-
 */
